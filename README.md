@@ -2,6 +2,10 @@
 
 - Introductory level (Python, Data manipulation and Machine Learning Basics)🦿🦾.
 - Advanced Machine Learning (Neural networks, CNN & RNN).🧠
-- Computer Vision ( image processing)
+- Computer Vision ()
 # Training-content
-Session One:
+Session one:
+- input, multi string , output, variables 
+- Boolean Logic , Decision structure
+-lists , tuples 
+check out the ✌ [El Wajeb](https://github.com/ghazalaaa/NASA-Space-apps-challenges/blob/main/List_py.ipynb)
