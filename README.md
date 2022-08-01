@@ -8,4 +8,4 @@ Session one:
 - input, multi string , output, variables 
 - Boolean Logic , Decision structure
 -lists , tuples 
-check out the ✌ [El Wajeb](https://github.com/ghazalaaa/NASA-Space-apps-challenges/blob/main/List_py.ipynb)
+-check out the lists ✌ [El Wajeb](https://github.com/ghazalaaa/NASA-Space-apps-challenges/blob/main/List_py.ipynb)
