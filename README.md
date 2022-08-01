@@ -6,6 +6,6 @@
 # Training-content
 Session one:
 - input, multi string , output, variables 
-- Boolean Logic , Decision structure( if conditions )
+- Boolean Logic , functions
 -lists , tuples 
--check out the lists ✌ [El Wajeb](https://github.com/ghazalaaa/NASA-Space-apps-challenges/blob/main/List_py.ipynb)
+-check out the assignment ✌ [El Wajeb](https://github.com/ghazalaaa/NASA-Space-apps-challenges/blob/main/List_py.ipynb)
