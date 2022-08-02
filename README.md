@@ -16,3 +16,4 @@ Session one:
 - For loops
 - 2D - lists
 - Nested loops
+- Check out the 2nd **Wajeb** soon Insha'Allah 💪
