@@ -10,8 +10,9 @@ Session one:
 - lists , tuples 
 - Check Out the assignment ✌ [El Wajeb](https://github.com/ghazalaaa/NASA-Space-apps-challenges/blob/main/List_py.ipynb)
 # Session 2
-- dictionaries
-- while loops
-- for loops
+- Decision Structures ( if conditions )
+- Dictionaries
+- While loops
+- For loops
 - 2D - lists
 - Nested loops
