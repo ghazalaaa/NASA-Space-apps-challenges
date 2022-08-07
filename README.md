@@ -17,7 +17,7 @@
 - For loops
 - 2D - lists
 - Nested loops
-- Check out the 2nd **Wajeb** soon Insha'Allah 💪
+- Check out the 2nd [Wajeb 2](https://github.com/ghazalaaa/NASA-Space-apps-challenges/blob/main/Session_2.ipynb)  Insha'Allah 💪
 # Session 3 استمر ☝ عاش الله اكبر
 - Files ( reading , writing ) , Modules 
 - ( classes and objects ) , Class ( Polymorphism , inheritance )
