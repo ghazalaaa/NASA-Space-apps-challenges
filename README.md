@@ -22,7 +22,7 @@
 - Files ( reading , writing ) , Modules 
 - ( classes and objects ) , Class ( Polymorphism , inheritance )
 - Recursion
-- basic concept of OoP ( object oriented programming )
+- basic concept of OOP ( object oriented programming )
 # Session 4 "feature engineering"
 - All about Numpy.
 - NumPy vs Lists (speed, functionality).
