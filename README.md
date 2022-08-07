@@ -57,6 +57,7 @@ Session one:
 - All about Matplotlib.
 - Various Types Of Plots.( Line Graph H, istogram, Pie Chart ,Box & Whisker Plot )
 # Machine learing 
+( pattern recognition - recommmender system - imitative learning - model selection & Evalution )
 # الحصة السابعة ٧ … و قل ربي زدني علما ☝
 - Why Machine Learning.
 - What is Machine Learning.
@@ -80,3 +81,12 @@ Session one:
 - Random Forest.
 - Support Vector Machine.
 - Naive Bayes.
+# الحصة العاشرة ١٠
+# Deep Learing 
+CNN , RNN , ANN
+- how is deep learing , neuron works  , keras network
+- artifical neural network 
+- how to train ANN
+# الحصة الاحد عشر ١١
+#Vision ( Machine vision , Image recognition )
+Under construction 
