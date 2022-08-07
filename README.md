@@ -12,6 +12,7 @@
 - Check Out the assignment ✌ [El Wajeb](https://github.com/ghazalaaa/NASA-Space-apps-challenges/blob/main/List_py.ipynb)
 # Session 2
 - Decision Structures ( if conditions )
++ Accumulator "to make the variable=0"
 - Dictionaries
 - While loops
 - For loops
