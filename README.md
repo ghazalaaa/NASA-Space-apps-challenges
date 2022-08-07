@@ -51,13 +51,13 @@ Session one:
 - Conditional Changes.
 - Aggregate Statistics using Groupby (Sum, Mean, Counting).
 - Working with large amounts of data (setting chunksize).
-#الحصة السادسة ٦
+# الحصة السادسة ٦ 
 - Why Data Visualization.
 - What Is Data Visualization).
 - All about Matplotlib.
 - Various Types Of Plots.( Line Graph H, istogram, Pie Chart ,Box & Whisker Plot )
 # Machine learing 
-#الحصة السابعة  ٧ (:
+# الحصة السابعة ٧ … و قل ربي زدني علما ☝
 - Why Machine Learning.
 - What is Machine Learning.
 - Types of Machine Learning.
