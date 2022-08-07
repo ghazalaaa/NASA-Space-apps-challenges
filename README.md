@@ -5,7 +5,7 @@
 - introduction to Ai ( Cv , NLP ....)
 - Computer Vision (👀)
 # Training-content
-Session one:
+# Session one:
 - input, multi string , output, variables 
 - Boolean Logic ,functions
 - lists , tuples 
